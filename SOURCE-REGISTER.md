@@ -1,14 +1,14 @@
 # Source Register
 
-Public links and versions below were checked on **2026-09-24**. Version numbers refer to the latest release visible on each repository's Releases page at that time.
+Public links and versions below were checked on **2026-09-25**. Version numbers refer to the latest release visible on each repository's Releases page at that time.
 
 | Project or tool | Public source | Latest checked release | Demonstration or evidence path |
 | --- | --- | --- | --- |
 | Bean Counter | [Repository](https://github.com/stevekkall-beansgc/bean-counter) | [v0.3.0](https://github.com/stevekkall-beansgc/bean-counter/releases/tag/v0.3.0) | [Release integration walkthrough](https://github.com/stevekkall-beansgc/bean-counter/blob/v0.3.0/examples/integration/README.md); the walkthrough labels its data synthetic. Ongoing-work status is owner supplied. |
 | BeanFit | [Repository](https://github.com/stevekkall-beansgc/beanfit) | [v0.4.4](https://github.com/stevekkall-beansgc/beanfit/releases/tag/v0.4.4) | [Five-minute showcase](https://github.com/stevekkall-beansgc/beanfit/blob/main/README.md#five-minute-showcase); output is an estimate with uncertainty. |
-| BeanFit App | [Repository](https://github.com/stevekkall-beansgc/beanfit-app) | [v0.4.4](https://github.com/stevekkall-beansgc/beanfit-app/releases/tag/v0.4.4) | [README customer flow](https://github.com/stevekkall-beansgc/beanfit-app/blob/main/README.md#beanfit-app). The README has no visitor demo URL; deployed-service status is internally confirmed, and automatic update alerts are described as planned. |
+| BeanFit App | [Repository](https://github.com/stevekkall-beansgc/beanfit-app) | [v0.4.5](https://github.com/stevekkall-beansgc/beanfit-app/releases/tag/v0.4.5) | [README customer flow](https://github.com/stevekkall-beansgc/beanfit-app/blob/main/README.md#beanfit-app). The README has no visitor demo URL; deployed-service status is internally confirmed, and automatic update alerts are described as planned. |
 | Jumping Beans | [Repository](https://github.com/stevekkall-beansgc/jumping-beans) | [v0.11.0](https://github.com/stevekkall-beansgc/jumping-beans/releases/tag/v0.11.0) | [Devpost showcase](https://devpost.com/software/jumping-beans). Frozen status is owner supplied. The README distinguishes the shopper demonstration from live delivery, monitoring, and analytics. |
-| QA Kit | [Repository](https://github.com/stevekkall-beansgc/qa-kit) | [v0.6.4](https://github.com/stevekkall-beansgc/qa-kit/releases/tag/v0.6.4) | [Five-minute showcase](https://github.com/stevekkall-beansgc/qa-kit/blob/main/README.md#five-minute-public-showcase). |
+| QA Kit | [Repository](https://github.com/stevekkall-beansgc/qa-kit) | [v0.6.5](https://github.com/stevekkall-beansgc/qa-kit/releases/tag/v0.6.5) | [Five-minute showcase](https://github.com/stevekkall-beansgc/qa-kit/blob/main/README.md#five-minute-public-showcase). |
 | Gate Kit | [Repository](https://github.com/stevekkall-beansgc/gate-kit) | [v0.4.22](https://github.com/stevekkall-beansgc/gate-kit/releases/tag/v0.4.22) | [Synthetic demo](https://github.com/stevekkall-beansgc/gate-kit/blob/main/README.md#2-run-the-synthetic-demo). |
 
 ## Claim checks
