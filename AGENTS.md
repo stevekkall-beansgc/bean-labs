@@ -11,3 +11,8 @@ or automation where a person carries context between systems.
 
 There is no application runtime or software test suite. The CI workflow checks
 that local Markdown targets exist and SVG files are well-formed.
+
+## Test commands
+
+Run `python3 scripts/check_showcase.py` for the repository-owned static check.
+The QA manifest and CI workflow use the same command.
