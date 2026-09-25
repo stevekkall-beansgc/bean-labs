@@ -37,8 +37,8 @@ These public tools help teams describe and run checks. Check a repository's own 
 
 | Tool | Role | Evidence |
 | --- | --- | --- |
-| [QA Kit](https://github.com/stevekkall-beansgc/qa-kit) | Runs checks selected by a repository-owned manifest and records results. | [Public showcase](https://github.com/stevekkall-beansgc/qa-kit/blob/main/README.md#five-minute-public-showcase) · [v0.6.5 release](https://github.com/stevekkall-beansgc/qa-kit/releases/tag/v0.6.5). |
-| [Gate Kit](https://github.com/stevekkall-beansgc/gate-kit) | Applies a documented check contract in configured local and CI workflows. | [Synthetic demo](https://github.com/stevekkall-beansgc/gate-kit/blob/main/README.md#2-run-the-synthetic-demo) · [v0.4.22 release](https://github.com/stevekkall-beansgc/gate-kit/releases/tag/v0.4.22). |
+| [QA Kit](https://github.com/stevekkall-beansgc/qa-kit) | Runs checks selected by a repository-owned manifest and records results. | [Public showcase](https://github.com/stevekkall-beansgc/qa-kit/blob/main/README.md#five-minute-public-showcase) · [v0.6.6 release](https://github.com/stevekkall-beansgc/qa-kit/releases/tag/v0.6.6). |
+| [Gate Kit](https://github.com/stevekkall-beansgc/gate-kit) | Applies a documented check contract in configured local and CI workflows. | [Synthetic demo](https://github.com/stevekkall-beansgc/gate-kit/blob/main/README.md#2-run-the-synthetic-demo) · [v0.4.23 release](https://github.com/stevekkall-beansgc/gate-kit/releases/tag/v0.4.23). |
 
 ## Agent systems
 
