@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" viewBox="0 0 1800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Bean Labs agent systems capability map</title>
+  <desc id="desc">BeanMind, Agency, and Beanstalk are shown as core agent capabilities. A person carries context into Agency and results into Beanstalk; Agency executes approved tasks. Four separate supporting systems cover scheduling, tool selection, local model quality, and shared contracts.</desc>
+  <defs>
+    <filter id="shadow" x="-12%" y="-12%" width="124%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#223149" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="1800" height="1000" fill="#F5F7FA"/>
+  <text x="72" y="52" fill="#5A6A7E" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="2">BEAN LABS  /  AGENT SYSTEMS</text>
+  <text x="72" y="108" fill="#142338" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="40" font-weight="730" letter-spacing="-1.1">A human-led loop around bounded agent work.</text>
+  <text x="74" y="145" fill="#516174" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="17">Three core capabilities, with supporting systems for the context, tools, and quality around them.</text>
+  <g transform="translate(1398 38)">
+    <rect width="330" height="36" rx="18" fill="#F8EEDC"/>
+    <circle cx="19" cy="18" r="5" fill="#BA7A25"/>
+    <text x="34" y="23" fill="#8B5B1F" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="0.5">SYNTHETIC SHOWCASE · HUMAN HANDOFFS</text>
+  </g>
+
+  <rect x="72" y="177" width="1656" height="48" rx="16" fill="#E9EEF4"/>
+  <text x="96" y="207" fill="#34445A" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="13" font-weight="750" letter-spacing="0.7">HUMAN CONTROL</text>
+  <text x="252" y="207" fill="#526276" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14">Supply context  ·  submit and approve the task  ·  review the result  ·  judge what to learn</text>
+  <text x="1704" y="207" text-anchor="end" fill="#7B8999" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="12">Illustrative operator-run story</text>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="250" width="500" height="280" rx="21" fill="#FFFFFF"/>
+    <rect x="72" y="250" width="500" height="7" rx="3.5" fill="#7653A6"/>
+    <rect x="650" y="250" width="500" height="280" rx="21" fill="#FFFFFF"/>
+    <rect x="650" y="250" width="500" height="7" rx="3.5" fill="#28739B"/>
+    <rect x="1228" y="250" width="500" height="280" rx="21" fill="#FFFFFF"/>
+    <rect x="1228" y="250" width="500" height="7" rx="3.5" fill="#318D76"/>
+  </g>
+  <g font-family="Inter, Avenir Next, system-ui, sans-serif">
+    <text x="100" y="291" fill="#7653A6" font-size="11" font-weight="750" letter-spacing="1.1">MEMORY &amp; CONTEXT</text>
+    <text x="100" y="337" fill="#172A41" font-size="27" font-weight="720">BeanMind</text>
+    <text x="100" y="372" fill="#526276" font-size="15">Carries cross-project context across supported sessions:</text>
+    <text x="100" y="396" fill="#526276" font-size="15">what happened, what was decided, learned, and preferred.</text>
+    <rect x="100" y="432" width="444" height="68" rx="13" fill="#F3EFF8"/>
+    <text x="118" y="458" fill="#7653A6" font-size="10" font-weight="750" letter-spacing="0.9">SHOW</text>
+    <text x="118" y="482" fill="#493A5F" font-size="14" font-weight="600">Save a synthetic decision → retrieve it later</text>
+
+    <text x="678" y="291" fill="#28739B" font-size="11" font-weight="750" letter-spacing="1.1">SUPERVISED EXECUTION</text>
+    <text x="678" y="337" fill="#172A41" font-size="27" font-weight="720">Agency</text>
+    <text x="678" y="372" fill="#526276" font-size="15">Approved work runs in isolation; a skeptic pass</text>
+    <text x="678" y="396" fill="#526276" font-size="15">reviews read-only and records advisory findings.</text>
+    <rect x="678" y="432" width="444" height="68" rx="13" fill="#EDF4F8"/>
+    <text x="696" y="458" fill="#28739B" font-size="10" font-weight="750" letter-spacing="0.9">SHOW</text>
+    <text x="696" y="482" fill="#304C60" font-size="14" font-weight="600">Agent change → skeptic receipt → human decision</text>
+
+    <text x="1256" y="291" fill="#318D76" font-size="11" font-weight="750" letter-spacing="1.1">EVALUATION &amp; LEARNING</text>
+    <text x="1256" y="337" fill="#172A41" font-size="27" font-weight="720">Beanstalk</text>
+    <text x="1256" y="372" fill="#526276" font-size="15">Supervised, offline evaluation of existing work.</text>
+    <text x="1256" y="396" fill="#526276" font-size="15">Compares judgments; records decisions and lessons.</text>
+    <rect x="1256" y="432" width="444" height="68" rx="13" fill="#EAF4F0"/>
+    <text x="1274" y="458" fill="#318D76" font-size="10" font-weight="750" letter-spacing="0.9">SHOW</text>
+    <text x="1274" y="482" fill="#355A50" font-size="14" font-weight="600">Evaluate synthetic work; allow an inconclusive result</text>
+  </g>
+
+  <g font-family="Inter, Avenir Next, system-ui, sans-serif" fill="#7653A6" font-size="9" font-weight="750" letter-spacing="0.2" text-anchor="middle">
+    <text x="611" y="367">HUMAN</text><text x="611" y="382">HANDOFF</text>
+    <text x="1189" y="367">HUMAN</text><text x="1189" y="382">HANDOFF</text>
+  </g>
+
+  <text x="900" y="558" text-anchor="middle" fill="#58466F" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="15" font-weight="650">A person carries context into Agency and submits results to Beanstalk; no automatic transfer is shown.</text>
+
+  <text x="72" y="583" fill="#31435A" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="13" font-weight="750" letter-spacing="1.3">SUPPORTING CAPABILITIES  /  SEPARATE PRIVATE SYSTEMS</text>
+  <text x="1728" y="583" text-anchor="end" fill="#7B8999" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="12">Roles shown; direct runtime connections are not implied</text>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="605" width="390" height="210" rx="18" fill="#FFFFFF"/>
+    <rect x="486" y="605" width="390" height="210" rx="18" fill="#FFFFFF"/>
+    <rect x="900" y="605" width="390" height="210" rx="18" fill="#FFFFFF"/>
+    <rect x="1314" y="605" width="414" height="210" rx="18" fill="#FFFFFF"/>
+  </g>
+  <g font-family="Inter, Avenir Next, system-ui, sans-serif">
+    <text x="96" y="641" fill="#28739B" font-size="10" font-weight="750" letter-spacing="0.9">RECURRING WORK</text>
+    <text x="96" y="677" fill="#172A41" font-size="21" font-weight="720">bean-sched</text>
+    <text x="96" y="706" fill="#526276" font-size="14">A shared registry for recurring jobs;</text>
+    <text x="96" y="728" fill="#526276" font-size="14">the owning workflow does the work.</text>
+    <line x1="96" y1="752" x2="438" y2="752" stroke="#E8EDF2"/>
+    <text x="96" y="782" fill="#768496" font-size="12">Demo: disposable example job</text>
+
+    <text x="510" y="641" fill="#7653A6" font-size="10" font-weight="750" letter-spacing="0.9">TOOL SELECTION</text>
+    <text x="510" y="677" fill="#172A41" font-size="21" font-weight="720">Bean-Skillz</text>
+    <text x="510" y="706" fill="#526276" font-size="14">Curated skills, tools, and connectors,</text>
+    <text x="510" y="728" fill="#526276" font-size="14">tiered to keep agent context focused.</text>
+    <line x1="510" y1="752" x2="852" y2="752" stroke="#E8EDF2"/>
+    <text x="510" y="782" fill="#768496" font-size="12">Demo: choose tools for a sample task</text>
+
+    <text x="924" y="641" fill="#BA7A25" font-size="10" font-weight="750" letter-spacing="0.9">LOCAL MODEL QUALITY</text>
+    <text x="924" y="677" fill="#172A41" font-size="21" font-weight="720">model-harness</text>
+    <text x="924" y="706" fill="#526276" font-size="14">Repeatable model-quality and tuning</text>
+    <text x="924" y="728" fill="#526276" font-size="14">experiments on local setups.</text>
+    <line x1="924" y1="752" x2="1266" y2="752" stroke="#E8EDF2"/>
+    <text x="924" y="782" fill="#768496" font-size="12">Demo: fixed local comparison</text>
+
+    <text x="1338" y="641" fill="#318D76" font-size="10" font-weight="750" letter-spacing="0.9">SHARED CONTRACTS</text>
+    <text x="1338" y="677" fill="#172A41" font-size="21" font-weight="720">Bean Commons</text>
+    <text x="1338" y="706" fill="#526276" font-size="14">Common structures for bounded agent</text>
+    <text x="1338" y="728" fill="#526276" font-size="14">workflows and evidence.</text>
+    <line x1="1338" y1="752" x2="1704" y2="752" stroke="#E8EDF2"/>
+    <text x="1338" y="782" fill="#768496" font-size="12">Demo: validate a synthetic example</text>
+  </g>
+
+  <line x1="72" y1="860" x2="1728" y2="860" stroke="#DCE3EB"/>
+  <text x="72" y="894" fill="#526276" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="13">Showcase plan, not an existing public demo: use synthetic data, record an actual run, and label each capability's evidence.</text>
+  <text x="1728" y="894" text-anchor="end" fill="#8491A0" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="12">PRIVATE SOURCE  ·  ROLE-LEVEL VIEW</text>
+  <rect x="72" y="924" width="1656" height="42" rx="14" fill="#EEEAF4"/>
+  <text x="900" y="951" text-anchor="middle" fill="#58466F" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="13" font-weight="600">Repo docs show a thin BeanMind task reference, not verified memory sync; Agency executes after approval; Beanstalk evaluation is separate and offline.</text>
+</svg>

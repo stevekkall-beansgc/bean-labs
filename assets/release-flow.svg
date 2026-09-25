@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="900" viewBox="0 0 1800 900" role="img" aria-labelledby="title desc">
+  <title id="title">Bean Labs reusable product release path</title>
+  <desc id="desc">A five-stage release path marks QA Kit and Gate Kit as conditional on repository configuration, followed by a checklist for confirming adoption and interpreting evidence.</desc>
+  <defs>
+    <filter id="shadow" x="-12%" y="-12%" width="124%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#223149" flood-opacity="0.08"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+      <path d="M2 2 L10 6 L2 10" fill="none" stroke="#8B98A9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="1800" height="900" fill="#F5F7FA"/>
+  <text x="72" y="56" fill="#5A6A7E" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="2">DELIVERY GUIDE  /  EVIDENCE, NOT ASSUMPTION</text>
+  <text x="72" y="115" fill="#142338" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="42" font-weight="730" letter-spacing="-1.2">A reusable path, where a project configures it.</text>
+  <text x="74" y="152" fill="#516174" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="18">Check each repository's manifest and workflow before assuming it uses a shared tool.</text>
+
+  <path d="M115 248 H1685" fill="none" stroke="#D6DEE8" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#9BA8B8" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <path d="M368 248 H405"/><path d="M696 248 H733"/><path d="M1024 248 H1061"/><path d="M1352 248 H1389"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="205" width="296" height="233" rx="20" fill="#FFFFFF"/>
+    <rect x="400" y="205" width="296" height="233" rx="20" fill="#FFFFFF"/>
+    <rect x="728" y="205" width="296" height="233" rx="20" fill="#FFFFFF"/>
+    <rect x="1056" y="205" width="296" height="233" rx="20" fill="#FFFFFF"/>
+    <rect x="1384" y="205" width="344" height="233" rx="20" fill="#FFFFFF"/>
+  </g>
+  <g font-family="Inter, Avenir Next, system-ui, sans-serif">
+    <circle cx="105" cy="248" r="19" fill="#28739B"/><text x="105" y="254" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="750">1</text>
+    <text x="135" y="253" fill="#28739B" font-size="11" font-weight="750" letter-spacing="0.8">OWNED AT SOURCE</text>
+    <text x="96" y="309" fill="#172A41" font-size="22" font-weight="720">Product repo</text>
+    <text x="96" y="349" fill="#59697C" font-size="15">Product code and its tests</text>
+    <text x="96" y="374" fill="#59697C" font-size="15">stay together.</text>
+
+    <circle cx="433" cy="248" r="19" fill="#318D76"/><text x="433" y="254" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="750">2</text>
+    <text x="463" y="253" fill="#276F5E" font-size="11" font-weight="750" letter-spacing="0.8">IF CONFIGURED</text>
+    <text x="424" y="309" fill="#172A41" font-size="22" font-weight="720">QA Kit</text>
+    <text x="424" y="349" fill="#59697C" font-size="15">A repository manifest selects</text>
+    <text x="424" y="374" fill="#59697C" font-size="15">the checks to run.</text>
+
+    <circle cx="761" cy="248" r="19" fill="#318D76"/><text x="761" y="254" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="750">3</text>
+    <text x="791" y="253" fill="#276F5E" font-size="11" font-weight="750" letter-spacing="0.8">IF CONFIGURED</text>
+    <text x="752" y="309" fill="#172A41" font-size="22" font-weight="720">Gate Kit</text>
+    <text x="752" y="349" fill="#59697C" font-size="15">Applies the shared docs and</text>
+    <text x="752" y="374" fill="#59697C" font-size="15">check contract in local or CI.</text>
+
+    <circle cx="1089" cy="248" r="19" fill="#BA7A25"/><text x="1089" y="254" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="750">4</text>
+    <text x="1119" y="253" fill="#8B5B1F" font-size="11" font-weight="750" letter-spacing="0.8">REVIEW AND TAG</text>
+    <text x="1080" y="309" fill="#172A41" font-size="22" font-weight="720">Versioned release</text>
+    <text x="1080" y="349" fill="#59697C" font-size="15">A reviewed change is tied</text>
+    <text x="1080" y="374" fill="#59697C" font-size="15">to a source version.</text>
+
+    <circle cx="1417" cy="248" r="19" fill="#7653A6"/><text x="1417" y="254" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="750">5</text>
+    <text x="1447" y="253" fill="#63438D" font-size="11" font-weight="750" letter-spacing="0.8">PUBLIC EVIDENCE</text>
+    <text x="1408" y="309" fill="#172A41" font-size="22" font-weight="720">Inspect the record</text>
+    <text x="1408" y="349" fill="#59697C" font-size="15">Release notes, demos, CI results,</text>
+    <text x="1408" y="374" fill="#59697C" font-size="15">and assets when supplied.</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="493" width="802" height="278" rx="21" fill="#E9F4F0"/>
+    <rect x="902" y="493" width="826" height="278" rx="21" fill="#FFFFFF"/>
+  </g>
+  <g font-family="Inter, Avenir Next, system-ui, sans-serif">
+    <circle cx="112" cy="540" r="14" fill="#318D76"/>
+    <path d="M105 540 l5 5 10-12" fill="none" stroke="#FFFFFF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="140" y="546" fill="#245F52" font-size="18" font-weight="750">Confirm the path for a project</text>
+    <line x1="112" y1="568" x2="834" y2="568" stroke="#D2E6DE"/>
+    <circle cx="119" cy="606" r="4" fill="#318D76"/><text x="138" y="612" fill="#344B49" font-size="15">Manifest names the selected checks and runner</text>
+    <circle cx="119" cy="649" r="4" fill="#318D76"/><text x="138" y="655" fill="#344B49" font-size="15">Repository workflow invokes the configured gate</text>
+    <circle cx="119" cy="692" r="4" fill="#318D76"/><text x="138" y="698" fill="#344B49" font-size="15">Release points to source and includes records where available</text>
+    <text x="112" y="744" fill="#648078" font-size="13" font-weight="650">Repository evidence determines adoption, not the shared tool's release.</text>
+
+    <circle cx="942" cy="540" r="14" fill="#E9EEF4"/>
+    <path d="M937 535 l10 10 m0-10 l-10 10" stroke="#65758A" stroke-width="2" stroke-linecap="round"/>
+    <text x="970" y="546" fill="#34445A" font-size="18" font-weight="750">A release alone does not establish</text>
+    <line x1="942" y1="568" x2="1688" y2="568" stroke="#E3E8EE"/>
+    <circle cx="949" cy="606" r="4" fill="#8492A2"/><text x="968" y="612" fill="#59697C" font-size="15">That every product uses QA Kit or Gate Kit</text>
+    <circle cx="949" cy="649" r="4" fill="#8492A2"/><text x="968" y="655" fill="#59697C" font-size="15">Customer adoption, commercial use, or independent certification</text>
+    <circle cx="949" cy="692" r="4" fill="#8492A2"/><text x="968" y="698" fill="#59697C" font-size="15">Public access to a service that has no visitor URL</text>
+    <text x="942" y="744" fill="#8793A0" font-size="13" font-weight="650">Read each status against its source and the evidence actually published.</text>
+  </g>
+
+  <line x1="72" y1="817" x2="1728" y2="817" stroke="#DCE3EB"/>
+  <text x="72" y="852" fill="#526276" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14">This is a reusable process model, not a claim of universal project adoption or a production architecture.</text>
+  <text x="1728" y="852" text-anchor="end" fill="#8491A0" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="12">DRAFT  ·  24 SEP 2026</text>
+</svg>
