@@ -6,6 +6,8 @@ Bean Labs is a portfolio of separate software products and experiments. The proj
 
 This overview shows what each project helps with, what evidence a visitor can inspect, and where project status is confirmed. For a deeper explanation, see the [delivery guide](DELIVERY.md) and [source register](SOURCE-REGISTER.md).
 
+For repository editing rules and the static check, see [AGENTS.md](AGENTS.md).
+
 GitHub Releases record changes to this portfolio overview. Project release versions remain tied to their individual repositories.
 
 ## At a glance

@@ -1,0 +1,17 @@
+name: gate
+on:
+  # Only reviewed main changes may execute the shared release compliance gate.
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  compliance:
+    if: github.ref == 'refs/heads/main'
+    uses: stevekkall-beansgc/gate-kit/.github/workflows/compliance.yml@v0.4.22
+    with:
+      repo: bean-labs
+      full: false
