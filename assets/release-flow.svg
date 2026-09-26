@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="900" viewBox="0 0 1800 900" role="img" aria-labelledby="title desc">
-  <title id="title">Bean Labs reusable product release path</title>
+  <title id="title">Legume Labs reusable product release path</title>
   <desc id="desc">A five-stage release path marks QA Kit and Gate Kit as conditional on repository configuration, followed by a checklist for confirming adoption and interpreting evidence.</desc>
   <defs>
     <filter id="shadow" x="-12%" y="-12%" width="124%" height="140%">
