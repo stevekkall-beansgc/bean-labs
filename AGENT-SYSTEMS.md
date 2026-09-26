@@ -2,7 +2,7 @@
 
 **Private-source capability overview · public v0 summary**
 
-Bean Labs has built systems for agent memory, supervised execution, and evaluation, plus supporting tools for recurring work, tool selection, local model quality, and shared contracts. Their source repositories are private; this page summarizes their roles without publishing code or operational details.
+Legume Labs has built systems for agent memory, supervised execution, and evaluation, plus supporting tools for recurring work, tool selection, local model quality, and shared contracts. Their source repositories are private; this page summarizes their roles without publishing code or operational details.
 
 The walkthrough below is a proposed showcase using synthetic data. Agency executes approved tasks, while people carry context into a task and results into evaluation. It is not a recorded public demo and does not claim that these separate systems form one automated platform.
 

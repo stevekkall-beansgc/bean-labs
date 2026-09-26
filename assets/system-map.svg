@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1010" viewBox="0 0 1800 1010" role="img" aria-labelledby="title desc">
-  <title id="title">Bean Labs portfolio and delivery overview</title>
+  <title id="title">Legume Labs portfolio and delivery overview</title>
   <desc id="desc">Four separate public-source product projects, two public developer tools, and a reusable release path marked for repository-by-repository adoption.</desc>
   <defs>
     <filter id="shadow" x="-12%" y="-12%" width="124%" height="140%">
@@ -16,7 +16,7 @@
   <rect width="1800" height="1010" fill="#F5F7FA"/>
   <rect width="1800" height="1010" fill="url(#dotgrid)" opacity="0.32"/>
 
-  <text x="72" y="54" fill="#5A6A7E" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="2">BEAN LABS  /  PORTFOLIO OVERVIEW</text>
+  <text x="72" y="54" fill="#5A6A7E" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LEGUME LABS  /  PORTFOLIO OVERVIEW</text>
   <text x="72" y="111" fill="#142338" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="42" font-weight="730" letter-spacing="-1.2">Different products. Shared delivery tools.</text>
   <text x="74" y="148" fill="#516174" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="18">The projects solve different jobs; the review path is reusable and configured repository by repository.</text>
   <g transform="translate(1444 44)">

@@ -1,8 +1,8 @@
-# Bean Labs: Products and Delivery
+# Legume Labs: Products and Delivery
 
 **Public preview · v0 · public sources checked 2026-09-25**
 
-Bean Labs is a portfolio of separate software products and experiments. The projects solve different problems; QA Kit and Gate Kit provide reusable delivery tools for repositories that adopt them.
+Legume Labs is a portfolio of separate software products and experiments. The projects solve different problems; QA Kit and Gate Kit provide reusable delivery tools for repositories that adopt them.
 
 This overview shows what each project helps with, what evidence a visitor can inspect, and where project status is confirmed. For a deeper explanation, see the [delivery guide](DELIVERY.md) and [source register](SOURCE-REGISTER.md).
 
@@ -18,7 +18,7 @@ GitHub Releases record changes to this portfolio overview. Project release versi
 
 **Agent systems**
 
-![Bean Labs agent systems: BeanMind provides persistent context, Agency runs human-approved work, and Beanstalk evaluates results, with people carrying context between them](assets/agent-systems.svg)
+![Legume Labs agent systems: BeanMind provides persistent context, Agency runs human-approved work, and Beanstalk evaluates results, with people carrying context between them](assets/agent-systems.svg)
 
 ## Public products
 
@@ -42,7 +42,7 @@ These public tools help teams describe and run checks. Check a repository's own 
 
 ## Agent systems
 
-Bean Labs also has three private agent systems: **BeanMind** for persistent context, **Agency** for human-approved execution and read-only skeptic review, and **Beanstalk** for evaluating work and recording lessons. The [agent systems showcase](AGENT-SYSTEMS.md) maps those roles alongside supporting systems for recurring work, tool selection, model quality, and shared contracts. The example is human-directed: Agency executes approved work, while people carry context and results between systems.
+Legume Labs also has three private agent systems: **BeanMind** for persistent context, **Agency** for human-approved execution and read-only skeptic review, and **Beanstalk** for evaluating work and recording lessons. The [agent systems showcase](AGENT-SYSTEMS.md) maps those roles alongside supporting systems for recurring work, tool selection, model quality, and shared contracts. The example is human-directed: Agency executes approved work, while people carry context and results between systems.
 
 ## What this overview does not claim
 

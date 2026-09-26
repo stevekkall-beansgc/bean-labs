@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" viewBox="0 0 1800 1000" role="img" aria-labelledby="title desc">
-  <title id="title">Bean Labs agent systems capability map</title>
+  <title id="title">Legume Labs agent systems capability map</title>
   <desc id="desc">BeanMind, Agency, and Beanstalk are shown as core agent capabilities. A person carries context into Agency and results into Beanstalk; Agency executes approved tasks. Four separate supporting systems cover scheduling, tool selection, local model quality, and shared contracts.</desc>
   <defs>
     <filter id="shadow" x="-12%" y="-12%" width="124%" height="140%">
@@ -8,7 +8,7 @@
   </defs>
 
   <rect width="1800" height="1000" fill="#F5F7FA"/>
-  <text x="72" y="52" fill="#5A6A7E" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="2">BEAN LABS  /  AGENT SYSTEMS</text>
+  <text x="72" y="52" fill="#5A6A7E" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LEGUME LABS  /  AGENT SYSTEMS</text>
   <text x="72" y="108" fill="#142338" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="40" font-weight="730" letter-spacing="-1.1">A human-led loop around bounded agent work.</text>
   <text x="74" y="145" fill="#516174" font-family="Inter, Avenir Next, system-ui, sans-serif" font-size="17">Three core capabilities, with supporting systems for the context, tools, and quality around them.</text>
   <g transform="translate(1398 38)">
